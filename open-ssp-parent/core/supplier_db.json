@@ -1,0 +1,76 @@
+{
+	"supplier": [
+
+		{
+			"shortName": "dsp-test",
+			"cookieSyncName": "T001",
+			"endPoint": "http://174.138.52.120/rtb/bids/nexage",
+			"connectionKeepAlive": false,
+			"openRtbVersion": 2.4,
+			"contentType": "application/json",
+			"supplierId": "100000",
+			"currency": "USD",
+			"tmax": 900,
+			"allowedAdFormats": [
+				"BANNER",
+				"VIDEO"
+			],
+			"allowedAdPlatforms": [
+				"DESKTOP",
+				"MOBILE"
+			],
+			"cookieSync": "<img src='//Admins-MBP.pub.network:8082/user-sync?t=image&r={SSP_REDIR_URL}' style ='display:none' width='0' height='0'></img>",
+			"cookieSyncOnly": false,
+			"underTest": 1,
+			"active": 1
+		},
+
+		{
+			"shortName": "dsp-test",
+			"cookieSyncName": "T001",
+			"endPoint": "http://174.138.52.120:8080/rtb/bids/fyber",
+			"connectionKeepAlive": false,
+			"openRtbVersion": 2.4,
+			"contentType": "application/json",
+			"supplierId": "100000",
+			"currency": "USD",
+			"tmax": 900,
+			"allowedAdFormats": [
+				"BANNER",
+				"VIDEO"
+			],
+			"allowedAdPlatforms": [
+				"DESKTOP",
+				"MOBILE"
+			],
+			"cookieSync": "<img src='//Admins-MBP.pub.network:8082/user-sync?t=image&r={SSP_REDIR_URL}' style ='display:none' width='0' height='0'></img>",
+			"cookieSyncOnly": false,
+			"underTest": 1,
+			"active": 1
+		},
+
+		{
+			"shortName": "dsp-test",
+			"cookieSyncName": "T001",
+			"endPoint": "http://174.138.52.120:8080/rtb/bids/citenko",
+			"connectionKeepAlive": false,
+			"openRtbVersion": 2.4,
+			"contentType": "application/json",
+			"supplierId": "100000",
+			"currency": "USD",
+			"tmax": 900,
+			"allowedAdFormats": [
+				"BANNER",
+				"VIDEO"
+			],
+			"allowedAdPlatforms": [
+				"DESKTOP",
+				"MOBILE"
+			],
+			"cookieSync": "<img src='//Admins-MBP.pub.network:8082/user-sync?t=image&r={SSP_REDIR_URL}' style ='display:none' width='0' height='0'></img>",
+			"cookieSyncOnly": false,
+			"underTest": 1,
+			"active": 1
+		}
+	]
+}

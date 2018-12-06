@@ -1,0 +1,20 @@
+{
+  "id": "eb85349d-03c3-44f4-a77b-824f7221d116",
+  "seatbid": [{
+    "bid": [{
+      "id": "1",
+      "impid": "eb85349d-03c3-44f4-a77b-824f7221d116",
+      "price": 0.1,
+      "adm": "<div>Ad Creative</div>",
+      "adomain": [
+        "http://www.example.com/clickthrough"
+      ],
+      "crid": "crid_value",
+      "nurl": "http://example.com/winnotice?impid={AUCTION_IMP_ID}&auction=${AUCTION_ID}&price=${AUCTION_PRICE}&bidid=${AUCTON_BID_ID}&bidcur=${AUCTION_CURRENCY}",
+      "ext": {
+        "brand_id": "brand_val",
+        "buyer_id": "buyer_val"
+      }
+      }]
+  }]
+}
