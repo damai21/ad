@@ -16,9 +16,9 @@
 	<!-- url of the data provider where the cache is updated from -->
 	<entry key="data-provider-scheme">http</entry>
 
-	<entry key="data-provider-host">209.97.149.219</entry>
+	<entry key="data-provider-host"></entry>
 
-	<entry key="data-provider-port">80</entry>
+	<entry key="data-provider-port"></entry>
 	<entry key="data-provider-path">/ssp/</entry>
 
 	<!-- credential for remote access -->
@@ -31,9 +31,9 @@
 
 	<entry key="adserver-provider-scheme">http</entry>
 
-	<entry key="adserver-provider-host">174.138.52.120</entry>
+	<entry key="adserver-provider-host"></entry>
 
-	<entry key="adserver-provider-port">80</entry>
+	<entry key="adserver-provider-port"></entry>
 
 	<entry key="adserver-provider-path">/Campaigns/payday.json</entry>
 
